@@ -1,5 +1,4 @@
-<p>
-  About Me:
+About Me:
 - I'm 14 years old
 - I'm a student of Lynfield College, New Zealand
 - I take digital technologies as a subject, so I'm still learning lots of stuff about coding
@@ -10,4 +9,3 @@ About my project:
 - I’m looking to collaborate on my Taste Haven project
 - How to reach me: tastehaven@protonmail.com
 - Fun fact: This whole project idea started from a school task where I had to make a web page with a couple recipes on it lol!
-</p>
